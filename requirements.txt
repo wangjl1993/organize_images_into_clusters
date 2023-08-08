@@ -1,0 +1,5 @@
+communities==3.0.0
+Pillow==10.0.0
+torch==1.11.0
+torchreid==0.2.5
+torchreid.egg==info
